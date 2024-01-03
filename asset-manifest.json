@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kewlvary/crux/static/css/main.bd6fec7b.css",
+    "main.js": "/kewlvary/crux/static/js/main.65ebdf21.js",
+    "static/js/787.2e6e0b72.chunk.js": "/kewlvary/crux/static/js/787.2e6e0b72.chunk.js",
+    "index.html": "/kewlvary/crux/index.html",
+    "main.bd6fec7b.css.map": "/kewlvary/crux/static/css/main.bd6fec7b.css.map",
+    "main.65ebdf21.js.map": "/kewlvary/crux/static/js/main.65ebdf21.js.map",
+    "787.2e6e0b72.chunk.js.map": "/kewlvary/crux/static/js/787.2e6e0b72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd6fec7b.css",
+    "static/js/main.65ebdf21.js"
+  ]
+}
